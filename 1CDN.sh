@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 ## 本脚本搬运并模仿 liuqitoday
-dir_config=/root/qinglong/config
-dir_script=/root/qinglong/scripts
-dir_repo=/root/qinglong/repo
+dir_config=/ql/config
+dir_script=/ql/scripts
+dir_repo=/ql/repo
 config_shell_path=$dir_config/config.sh
 extra_shell_path=$dir_config/extra.sh
 code_shell_path=$dir_config/code.sh
