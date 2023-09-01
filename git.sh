@@ -1,6 +1,6 @@
 #! /bin/bash
 cd /root/Suixsy/SuixSy
 git add .
-git commit -m "`date '+%y%m%d'`_dump.rdb"
-git push origin master
+git commit -m "sillyGirl"
+git push origin sillyGirl
 echo '上传完成...'
