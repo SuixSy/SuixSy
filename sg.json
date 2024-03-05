@@ -1,0 +1,583 @@
+2024/03/05 14:55:09.524 [1;34m[I][0m  已使用redis进行数据存储
+2024/03/05 14:55:09.588 [1;34m[I][0m  编译版本: 1705586631639
+2024/03/05 14:55:09.589 [1;34m[I][0m  管理员面板:
+2024/03/05 14:55:09.589 [1;34m[I][0m    > 本机: http://localhost:8080/admin
+2024/03/05 14:55:09.594 [1;34m[I][0m    > 局域网: http://10.0.8.14:8080/admin
+2024/03/05 14:55:09.595 [1;34m[I][0m    > 广域网: http://42.193.97.98:8080/admin
+2024/03/05 14:55:09.673 [1;34m[I][0m  web机器人(default)已初始化
+2024/03/05 14:55:10.278 [1;34m[I][0m  terminal机器人(default)已初始化
+[CLIENT] 开启
+shards 不存在
+2024/03/05 14:55:11.224 [1;34m[I][0m  undefined main - ding
+2024/03/05 14:55:11.225 [1;34m[I][0m  undefined msg - ding
+2024/03/05 14:55:11.248 [1;34m[I][0m  wx机器人(wxid_tbtmkldytqz322)已初始化
+[CLIENT] 鉴权通过
+[CLIENT] 发送第一次心跳 { op: 1, d: 1 }
+2024/03/05 14:55:11.262 [1;34m[I][0m  qc机器人(5695366038526264929)已初始化
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+2024/03/05 14:55:11.532 [1;34m[I][0m  tg机器人(6653720576)已初始化
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+2024/03/05 15:10:00.057 [1;34m[I][0m  令牌有效期剩余 84446 s
+2024/03/05 15:10:00.130 [1;34m[I][0m  已重载 SyTelegram Bot.js
+2024/03/05 15:10:01.163 [1;34m[I][0m  已重载 QQ频道机器人.js
+2024/03/05 15:10:01.378 [1;33m[W][0m  tg机器人6653720576因冲突销毁！
+2024/03/05 15:10:01.378 [1;34m[I][0m  tg机器人(6653720576)已初始化
+2024/03/05 15:10:01.621 [1;33m[W][0m  tgbot在多处运行，如果持续出现此报错，请更换token
+2024/03/05 15:10:02.245 [1;34m[I][0m  qc机器人(5695366038526264929)已销毁
+[CLIENT] 开启
+shards 不存在
+[CLIENT] 鉴权通过
+[CLIENT] 发送第一次心跳 { op: 1, d: 1 }
+2024/03/05 15:10:02.946 [1;34m[I][0m  qc机器人(5695366038526264929)已初始化
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+2024/03/05 15:32:13.287 [1;44m[D][0m  西瓜接收消息： {"content":{"robot_type":0,"type":1,"from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","msg":"麻烦大家抽空的时候打开爱槐荫APP,点击政务号-吴家堡-订阅一下","msg_source":null,"clientid":0,"msg_id":"6231017722232870366","robot_wxid":"wxid_tbtmkldytqz322","from_wxid":"wxid_zi2j5fieavcl21","from_name":"Y a n [emoji=\\uD83D\\uDC95]"},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 15:32:13.411 [1;34m[I][0m  接收到消息 wx/wxid_zi2j5fieavcl21@39249416841：麻烦大家抽空的时候打开爱槐荫APP,点击政务号-吴家堡-订阅一下
+2024/03/05 15:32:13.502 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 15:32:13.515 [1;34m[I][0m  继续去处理：麻烦大家抽空的时候打开爱槐荫APP,点击政务号-吴家堡-订阅一下
+2024/03/05 15:32:15.458 [1;44m[D][0m  西瓜接收消息： {"content":{"from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_zi2j5fieavcl21","from_name":"Y a n [emoji=\\uD83D\\uDC95]","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\ef378b79d2aca355aa4b7b975fff4108.jpg]","msg_source":null,"clientid":0,"robot_wxid":"wxid_tbtmkldytqz322","type":3,"robot_type":0,"msg_id":"1723474615437723091"},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 15:32:15.471 [1;34m[I][0m  接收到消息 wx/wxid_zi2j5fieavcl21@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/ef378b79d2aca355aa4b7b975fff4108.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\ef378b79d2aca355aa4b7b975fff4108.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 15:32:15.495 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 15:32:18.959 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 15:32:18.959 [1;34m[I][0m  0
+2024/03/05 15:32:18.972 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 等待断线重连中...
+[CLIENT] 连接关闭 4009
+[CLIENT] 重新连接中，尝试次数： 1
+[ERROR] 事件接收 : { eventType: 'ERROR', msg: '连接过期，请重连' }
+[CLIENT] 开启
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: null }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 16:10:00.045 [1;34m[I][0m  令牌有效期剩余 80846 s
+2024/03/05 16:10:00.106 [1;34m[I][0m  已重载 SyTelegram Bot.js
+2024/03/05 16:10:01.125 [1;34m[I][0m  已重载 QQ频道机器人.js
+2024/03/05 16:10:01.349 [1;33m[W][0m  tg机器人6653720576因冲突销毁！
+2024/03/05 16:10:01.349 [1;34m[I][0m  tg机器人(6653720576)已初始化
+2024/03/05 16:10:01.606 [1;33m[W][0m  tgbot在多处运行，如果持续出现此报错，请更换token
+2024/03/05 16:10:02.196 [1;34m[I][0m  qc机器人(5695366038526264929)已销毁
+[CLIENT] 开启
+shards 不存在
+[CLIENT] 鉴权通过
+[CLIENT] 发送第一次心跳 { op: 1, d: 1 }
+2024/03/05 16:10:02.905 [1;34m[I][0m  qc机器人(5695366038526264929)已初始化
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 等待断线重连中...
+[CLIENT] 连接关闭 4009
+[CLIENT] 重新连接中，尝试次数： 1
+[ERROR] 事件接收 : { eventType: 'ERROR', msg: '连接过期，请重连' }
+[CLIENT] 开启
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: null }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 16:45:51.458 [1;44m[D][0m  西瓜接收消息： {"content":{"type":1,"from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","msg_id":"966917669650436611","robot_wxid":"wxid_tbtmkldytqz322","from_name":"赵百梁","msg":"请大家按照这个流程下载爱槐荫APP，关注爱槐荫APP中吴家堡街道政务号（最后点击订阅，截图发到群里），谢谢配合[抱拳][抱拳][抱拳]","msg_source":null,"clientid":0,"robot_type":0,"from_wxid":"wxid_9i7qklt7ybqp11"},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 16:45:51.540 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：请大家按照这个流程下载爱槐荫APP，关注爱槐荫APP中吴家堡街道政务号（最后点击订阅，截图发到群里），谢谢配合[抱拳][抱拳][抱拳]
+2024/03/05 16:45:51.607 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 16:45:51.623 [1;34m[I][0m  继续去处理：请大家按照这个流程下载爱槐荫APP，关注爱槐荫APP中吴家堡街道政务号（最后点击订阅，截图发到群里），谢谢配合[抱拳][抱拳][抱拳]
+2024/03/05 16:45:53.879 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","msg_source":null,"msg_id":"8306035220876221792","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\466b7a209ea30ac8e7783aa252047a71.jpg]","clientid":0,"robot_type":0,"type":3,"from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_9i7qklt7ybqp11","from_name":"赵百梁"}}
+2024/03/05 16:45:53.893 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/466b7a209ea30ac8e7783aa252047a71.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\466b7a209ea30ac8e7783aa252047a71.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 16:45:53.907 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 16:45:57.710 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 16:45:57.710 [1;34m[I][0m  0
+2024/03/05 16:45:57.717 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 16:52:50.127 [1;34m[I][0m  登录成功，当前有效令牌数2，总数2
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 16:55:47.884 [1;34m[I][0m  接收到消息 web/0F65WzqEmjJx@：imt
+2024/03/05 16:55:47.937 [1;34m[I][0m  匹配到规则：^imt$
+2024/03/05 16:55:48.247 [1;34m[I][0m  {"message":"[ianus-token-auth] device id inconsistency","code":4011}
+
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 16:57:02.200 [1;31m[E][0m  GoError: unknown time zone Asia/Shanghai at reflect.methodValueCall (native)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 16:59:33.912 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:00:00.072 [1;44m[D][0m  西瓜发送消息： {"message_id":"","content":"Tips：今天活动已结束，大家可以扫码签退了[抱拳][抱拳][抱拳]","user_id":"","chat_id":"39249416841","bot_id":"wxid_tbtmkldytqz322"}
+2024/03/05 17:00:00.123 [1;44m[D][0m  西瓜消息发送详情： {"to_wxid":"39249416841@chatroom","api":"SendTextMsg","msg":"Tips：今天活动已结束，大家可以扫码签退了[抱拳][抱拳][抱拳]"}
+2024/03/05 17:00:00.193 [1;44m[D][0m  西瓜消息发送结果： {"Code":0,"Result":"OK"}
+2024/03/05 17:00:00.277 [1;34m[I][0m  【文明实践】：已上传活动代码
+2024/03/05 17:00:00.483 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"msg":"Tips：今天活动已结束，大家可以扫码签退了[抱拳][抱拳][抱拳]","to_wxid":"39249416841@chatroom","to_name":"魅力中赵志愿服务队","clientid":0,"robot_type":0,"msg_id":"7271355424459897787","robot_wxid":"wxid_tbtmkldytqz322","type":1}}
+2024/03/05 17:00:00.794 [1;34m[I][0m  令牌有效期剩余 85569 s
+2024/03/05 17:00:00.809 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:00.814 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:00.820 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:00.823 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:00.825 [1;34m[I][0m  =====【文明实践】=====
+令牌有效期剩: 85569 s
+2024/03/05 17:00:00.829 [1;34m[I][0m  map[code:1 data:map[list:[map[activity_id:14623021 address:济齐路388号 attend_state:10 body:雷锋是时代的楷模，雷锋精神是永不褪色的旗帜。在第61个“学雷锋纪念日”到来之际，槐荫区吴家堡街道中赵家庄村新时代文明实践站开展“学雷锋”新时代文明实践活动，用实际行动践行雷锋精神。中赵家庄村新时代文明实践站将持续开展丰富多样的志愿服务活动，不断壮大学雷锋志愿服务队伍，让学雷锋活动融入日常、化为经常，让雷锋精神在辖区群众心中绽放更加璀璨的光芒。 can_show_manage_qrcode:false can_show_manage_qrcode_message:不是活动的管理员 can_sign_in:false can_sign_in_message:活动已签到 can_sign_out:true check_type:4 complete_state:1 end_at:2024-03-05 17:00:00 is_team_manager:false name:中赵家庄村开展学雷锋志愿服务活动 service_object_list:[为老 为困难群体] service_type_list:[] sign_in_at:2024-03-05 08:47:16 sign_out_at: start_at:2024-03-05 09:00:00 state:10 team:map[avatar:https://img11.iqilu.com/29/2020/08/14/59a29c4f1421140b9369292e9e70fdef.png id:748949 name:吴家堡街道中赵家庄村党员志愿服务队]]] total:1] errmsg: message: requestId:65e6df10b4ff26-70788048-32051090]
+2024/03/05 17:00:00.829 [1;34m[I][0m  [map[activity_id:14623021 address:济齐路388号 attend_state:10 body:雷锋是时代的楷模，雷锋精神是永不褪色的旗帜。在第61个“学雷锋纪念日”到来之际，槐荫区吴家堡街道中赵家庄村新时代文明实践站开展“学雷锋”新时代文明实践活动，用实际行动践行雷锋精神。中赵家庄村新时代文明实践站将持续开展丰富多样的志愿服务活动，不断壮大学雷锋志愿服务队伍，让学雷锋活动融入日常、化为经常，让雷锋精神在辖区群众心中绽放更加璀璨的光芒。 can_show_manage_qrcode:false can_show_manage_qrcode_message:不是活动的管理员 can_sign_in:false can_sign_in_message:活动已签到 can_sign_out:true check_type:4 complete_state:1 end_at:2024-03-05 17:00:00 is_team_manager:false name:中赵家庄村开展学雷锋志愿服务活动 service_object_list:[为老 为困难群体] service_type_list:[] sign_in_at:2024-03-05 08:47:16 sign_out_at: start_at:2024-03-05 09:00:00 state:10 team:map[avatar:https://img11.iqilu.com/29/2020/08/14/59a29c4f1421140b9369292e9e70fdef.png id:748949 name:吴家堡街道中赵家庄村党员志愿服务队]]]
+2024/03/05 17:00:00.831 [1;34m[I][0m  签退时间 2024-03-05 17:00:00
+2024/03/05 17:00:00.834 [1;44m[D][0m  西瓜发送消息： {"message_id":"","content":"=====【文明实践】=====\n活动名称：14623021 - 中赵家庄村开展学雷锋志愿服务活动\n活动时间：2024-03-05 09:00:00 至 2024-03-05 17:00:00\n活动签到：可以签退 undefined","user_id":"q15423q","chat_id":"","bot_id":"wxid_tbtmkldytqz322"}
+2024/03/05 17:00:00.835 [1;44m[D][0m  西瓜消息发送详情： {"to_wxid":"q15423q","api":"SendTextMsg","msg":"=====【文明实践】=====\n活动名称：14623021 - 中赵家庄村开展学雷锋志愿服务活动\n活动时间：2024-03-05 09:00:00 至 2024-03-05 17:00:00\n活动签到：可以签退 undefined"}
+2024/03/05 17:00:00.840 [1;44m[D][0m  西瓜消息发送结果： {"Code":0,"Result":"OK"}
+2024/03/05 17:00:00.844 [1;44m[D][0m  西瓜发送消息： {"message_id":"","content":"【文明实践】：开始签到...","user_id":"q15423q","chat_id":"","bot_id":"wxid_tbtmkldytqz322"}
+2024/03/05 17:00:00.861 [1;44m[D][0m  西瓜消息发送详情： {"to_wxid":"q15423q","api":"SendTextMsg","msg":"【文明实践】：开始签到..."}
+2024/03/05 17:00:00.865 [1;44m[D][0m  西瓜消息发送结果： {"Code":0,"Result":"OK"}
+2024/03/05 17:00:01.055 [1;34m[I][0m  map[code:1 data:map[duration:8 message: type:2] errmsg:签退成功 message:签退成功 requestId:65e6df10f0d132-70232345-59156175]
+2024/03/05 17:00:01.258 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"robot_type":0,"msg_id":"8043262987607080682","robot_wxid":"wxid_tbtmkldytqz322","type":1,"msg":"【文明实践】：开始签到...","to_wxid":"q15423q","to_name":"ω Sy.","clientid":0}}
+2024/03/05 17:00:01.308 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"msg_id":"6423265850409219429","robot_wxid":"wxid_tbtmkldytqz322","type":1,"msg":"=====【文明实践】=====\r\n活动名称：14623021 - 中赵家庄村开展学雷锋志愿服务活动\r\n活动时间：2024-03-05 09:00:00 至 2024-03-05 17:00:00\r\n活动签到：可以签退 undefined","to_wxid":"q15423q","to_name":"ω Sy.","clientid":0,"robot_type":0}}
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:00:02.184 [1;34m[I][0m  map[code:1 data:map[duration:8 message: type:2] errmsg:签退成功 message:签退成功 requestId:65e6df121cef52-83690947-34051413]
+2024/03/05 17:00:03.187 [1;44m[D][0m  西瓜发送消息： {"user_id":"q15423q","chat_id":"","bot_id":"wxid_tbtmkldytqz322","message_id":"","content":"【文明实践】：\n①150****1851 签退成功！\n②157****9871 签退成功！"}
+2024/03/05 17:00:03.188 [1;44m[D][0m  西瓜消息发送详情： {"to_wxid":"q15423q","api":"SendTextMsg","msg":"【文明实践】：\n①150****1851 签退成功！\n②157****9871 签退成功！"}
+2024/03/05 17:00:03.194 [1;44m[D][0m  西瓜消息发送结果： {"Code":0,"Result":"OK"}
+2024/03/05 17:00:03.198 [1;34m[I][0m  令牌有效期剩余 85566 s
+2024/03/05 17:00:03.210 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:00:03.213 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:03.217 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:00:03.220 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:03.227 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:00:03.229 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:03.232 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:00:03.235 [1;34m[I][0m  {"success":true}
+2024/03/05 17:00:03.235 [1;34m[I][0m  =====【文明实践】=====
+令牌有效期剩: 85566 s
+2024/03/05 17:00:03.393 [1;34m[I][0m  map[list:[map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 11:54:31 duration:0 id:136731477 member_avatar:https://img11.iqilu.com/2020/04/07/294cfc697eec6148e5409bd55f901988.png member_id:53906785 member_name:赵百贞 member_politics:0 sign_in_at:2024-03-05 11:54:42 sign_out_at:] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:49:56 duration:7.7 id:136590265 member_avatar:https://img11.iqilu.com/2020/04/07/294cfc697eec6148e5409bd55f901988.png member_id:53876409 member_name:赵仙芬 member_politics:1 sign_in_at:2024-03-05 08:50:19 sign_out_at:2024-03-05 16:39:04] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:49:31 duration:0 id:136589437 member_avatar:https://img11.iqilu.com/2020/04/07/294cfc697eec6148e5409bd55f901988.png member_id:50738481 member_name:闫文君 member_politics:2 sign_in_at:2024-03-05 08:49:37 sign_out_at:] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:49:02 duration:0 id:136588397 member_avatar:https://img11.iqilu.com/2020/04/07/294cfc697eec6148e5409bd55f901988.png member_id:53869101 member_name:耿恩忠 member_politics:1 sign_in_at:2024-03-05 08:49:30 sign_out_at:] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:48:32 duration:0 id:136587351 member_avatar:https://img11.iqilu.com/2020/04/07/294cfc697eec6148e5409bd55f901988.png member_id:53869235 member_name:马建峰 member_politics:1 sign_in_at:2024-03-05 08:48:50 sign_out_at:] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:47:14 duration:8 id:136584503 member_avatar:https://img11.iqilu.com/2020/04/07/294cfc697eec6148e5409bd55f901988.png member_id:61060049 member_name:赵世意 member_politics:0 sign_in_at:2024-03-05 08:47:17 sign_out_at:2024-03-05 17:00:02] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:47:13 duration:8 id:136584461 member_avatar:https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTL6psuSZRGzFW3TGI9XoAVsxhsKvS1EJXGaKu64DKDETa6jVor9ysSfm1lj48s2efDwJB09ThtLicQ/132 member_id:53912429 member_name:訾俏 member_politics:0 sign_in_at:2024-03-05 08:47:16 sign_out_at:2024-03-05 17:00:00] map[activity_id:14623021 check_type:4 check_type_name:志愿者扫码 complete_state:1 created_at:2024-03-05 08:44:23 duration:0 id:136578427 member_avatar:https://img11.litenews.cn/405/2023/10/20/aac2dd59b8246942265fe0e7926e7e27.jpg member_id:53870265 member_name:赵百梁 member_politics:1 sign_in_at:2024-03-05 08:47:43 sign_out_at:]] total:8]
+2024/03/05 17:00:03.398 [1;44m[D][0m  西瓜发送消息： {"user_id":"q15423q","chat_id":"","bot_id":"wxid_tbtmkldytqz322","message_id":"","content":">>　活动ID：14623021\n-----　[签到详情]　-----\nID　姓名　签到时间　签退时间 DT\n⑧赵百贞　11:54:42　 \n⑦赵仙芬　08:50:19　16:39:04 7.7\n⑥闫文君　08:49:37　 \n⑤耿恩忠　08:49:30　 \n④马建峰　08:48:50　 \n③赵世意　08:47:17　17:00:02 8\n②訾　俏　08:47:16　17:00:00 8\n①赵百梁　08:47:43　 "}
+2024/03/05 17:00:03.400 [1;44m[D][0m  西瓜消息发送详情： {"to_wxid":"q15423q","api":"SendTextMsg","msg":">>　活动ID：14623021\n-----　[签到详情]　-----\nID　姓名　签到时间　签退时间 DT\n⑧赵百贞　11:54:42　 \n⑦赵仙芬　08:50:19　16:39:04 7.7\n⑥闫文君　08:49:37　 \n⑤耿恩忠　08:49:30　 \n④马建峰　08:48:50　 \n③赵世意　08:47:17　17:00:02 8\n②訾　俏　08:47:16　17:00:00 8\n①赵百梁　08:47:43"}
+2024/03/05 17:00:03.404 [1;44m[D][0m  西瓜消息发送结果： {"Result":"OK","Code":0}
+2024/03/05 17:00:03.404 [1;34m[I][0m  【文明实践】：已退出！
+2024/03/05 17:00:03.437 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":1,"msg":"【文明实践】：\r\n①150****1851 签退成功！\r\n②157****9871 签退成功！","to_wxid":"q15423q","to_name":"ω Sy.","clientid":0,"robot_type":0,"msg_id":"5210304929581132948"}}
+2024/03/05 17:00:04.073 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"to_wxid":"q15423q","to_name":"ω Sy.","clientid":0,"robot_type":0,"msg_id":"5366508409103262362","robot_wxid":"wxid_tbtmkldytqz322","type":1,"msg":">>　活动ID：14623021\r\n-----　[签到详情]　-----\r\nID　姓名　签到时间　签退时间 DT\r\n⑧赵百贞　11:54:42　 \r\n⑦赵仙芬　08:50:19　16:39:04 7.7\r\n⑥闫文君　08:49:37　 \r\n⑤耿恩忠　08:49:30　 \r\n④马建峰　08:48:50　 \r\n③赵世意　08:47:17　17:00:02 8\r\n②訾　俏　08:47:16　17:00:00 8\r\n①赵百梁　08:47:43"}}
+2024/03/05 17:00:06.822 [1;34m[I][0m  已更新计划任务
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:00:43.612 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:00:50.506 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":1,"from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","from_name":"赵百梁","msg":"[强][强][强]","msg_source":null,"clientid":0,"robot_type":0,"msg_id":"5027075530522082190","from_wxid":"wxid_9i7qklt7ybqp11"}}
+2024/03/05 17:00:50.534 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[强][强][强]
+2024/03/05 17:00:50.590 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:00:50.596 [1;34m[I][0m  继续去处理：[强][强][强]
+2024/03/05 17:00:52.938 [1;34m[I][0m  已更新计划任务
+2024/03/05 17:01:04.836 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"from_group_name":"魅力中赵志愿服务队","msg":"活动结束了，大家尽快签退了[抱拳][抱拳][抱拳]","msg_source":null,"robot_type":0,"msg_id":"6781712653107544934","robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_name":"赵百梁","clientid":0,"type":1,"from_wxid":"wxid_9i7qklt7ybqp11"}}
+2024/03/05 17:01:04.840 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：活动结束了，大家尽快签退了[抱拳][抱拳][抱拳]
+2024/03/05 17:01:04.849 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:01:04.853 [1;34m[I][0m  继续去处理：活动结束了，大家尽快签退了[抱拳][抱拳][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:01:48.387 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventPrivateChat","content":{"msg":"ai win系统怎么关闭135、139、445端口","clientid":0,"robot_type":0,"msg_id":"1677170400276567988","robot_wxid":"wxid_tbtmkldytqz322","type":1,"from_wxid":"q15423q","from_name":"ω Sy."}}
+2024/03/05 17:01:48.392 [1;34m[I][0m  接收到消息 wx/q15423q@：ai win系统怎么关闭135、139、445端口
+2024/03/05 17:01:48.394 [1;34m[I][0m  匹配到规则：^ai\s+([\s\S]+)$
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:03:38.106 [1;34m[I][0m  已更新计划任务
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:04:29.319 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_q6flj8p72jie22","from_name":"燕","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\114497d4c0eebe0c1667f430a947c388.jpg]","msg_id":"268898892223376524","type":3,"from_group":"39249416841@chatroom","msg_source":null,"clientid":0,"robot_type":0}}
+2024/03/05 17:04:29.349 [1;34m[I][0m  接收到消息 wx/wxid_q6flj8p72jie22@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/114497d4c0eebe0c1667f430a947c388.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\114497d4c0eebe0c1667f430a947c388.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:04:29.366 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:04:33.253 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:04:33.253 [1;34m[I][0m  0
+2024/03/05 17:04:33.266 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:05:09.026 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_9i7qklt7ybqp11","msg_source":null,"from_group":"39249416841@chatroom","type":3,"from_name":"赵百梁","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\cdfbe4edd8879101355902867cc3ca1a.jpg]","clientid":0,"robot_type":0,"msg_id":"2739713030005010662","robot_wxid":"wxid_tbtmkldytqz322"}}
+2024/03/05 17:05:09.033 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/cdfbe4edd8879101355902867cc3ca1a.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\cdfbe4edd8879101355902867cc3ca1a.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:05:09.035 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:05:13.308 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:05:13.308 [1;34m[I][0m  0
+2024/03/05 17:05:13.308 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:05:35.487 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"clientid":0,"robot_type":0,"msg_id":"8959900867273524134","type":1,"from_group_name":"魅力中赵志愿服务队","msg":"[at=wxid_q6flj8p72jie22]点击定阅，需要显示已订阅[抱拳][抱拳][抱拳]","from_name":"赵百梁","msg_source":{"atuserlist":[{"nickname":"@燕","wxid":"wxid_q6flj8p72jie22"}]},"robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_wxid":"wxid_9i7qklt7ybqp11"}}
+2024/03/05 17:05:35.490 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[at=wxid_q6flj8p72jie22]点击定阅，需要显示已订阅[抱拳][抱拳][抱拳]
+2024/03/05 17:05:35.496 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:05:35.504 [1;34m[I][0m  继续去处理：[at=wxid_q6flj8p72jie22]点击定阅，需要显示已订阅[抱拳][抱拳][抱拳]
+2024/03/05 17:05:48.574 [1;44m[D][0m  西瓜接收消息： {"content":{"from_group_name":"魅力中赵志愿服务队","clientid":0,"msg_id":"3042477493686629492","robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_name":"赵百梁","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\78c87073d4876fc4410cc1d1c38690fb.jpg]","msg_source":null,"robot_type":0,"type":3,"from_wxid":"wxid_9i7qklt7ybqp11"},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 17:05:48.580 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/78c87073d4876fc4410cc1d1c38690fb.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\78c87073d4876fc4410cc1d1c38690fb.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:05:48.582 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:05:52.061 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:05:52.061 [1;34m[I][0m  0
+2024/03/05 17:05:52.061 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:07:32.328 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"clientid":0,"from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","from_name":"燕","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\c66e0f64b6637ac4caa5a97710087c64.jpg]","robot_type":0,"msg_id":"1931595395895156745","robot_wxid":"wxid_tbtmkldytqz322","type":3,"from_wxid":"wxid_q6flj8p72jie22","msg_source":null}}
+2024/03/05 17:07:32.333 [1;34m[I][0m  接收到消息 wx/wxid_q6flj8p72jie22@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/c66e0f64b6637ac4caa5a97710087c64.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\c66e0f64b6637ac4caa5a97710087c64.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:07:32.335 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:07:36.476 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:07:36.476 [1;34m[I][0m  0
+2024/03/05 17:07:36.476 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+2024/03/05 17:07:50.804 [1;44m[D][0m  西瓜接收消息： {"content":{"msg_id":"5975672614814289021","from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_9i7qklt7ybqp11","clientid":0,"from_name":"赵百梁","msg":"[抱拳][抱拳][抱拳]","msg_source":null,"robot_type":0,"robot_wxid":"wxid_tbtmkldytqz322","type":1,"from_group":"39249416841@chatroom"},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 17:07:50.808 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[抱拳][抱拳][抱拳]
+2024/03/05 17:07:50.811 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:07:50.814 [1;34m[I][0m  继续去处理：[抱拳][抱拳][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:09:31.718 [1;44m[D][0m  西瓜发送消息： {"message_id":"q15423q.1677170400276567988","content":"在 Windows 系统中，关闭特定端口需要通过防火墙设置或者停止对应的服务来实现。以下是针对端口 135、139 和 445 的关闭方法：\n\n1. **通过 Windows防火墙关闭端口**：\n   - 打开控制面板，进入\"系统和安全\"，然后点击\"Windows Defender 防火墙\"。\n   - 在左侧导航栏中，选择\"高级设置\"。\n   - 在\"入站规则\"中，点击\"新建规则\"。\n   - 选择\"端口\"，然后点击\"下一步\"。\n   - 选择\"特定本地端口\"，输入要关闭的端口号（例如 135、139 或 445），然后点击\"下一步\"。\n   - 选择\"拒绝连接\"，然后点击\"下一步\"。\n   - 根据需要选择应用规则的网络位置，然后点击\"下一步\"。\n   - 输入规则名称，然后点击\"完成\"。\n\n2. **停止对应的服务**：\n   - 打开命令提示符（CMD）。\n   - 输入 `net stop servicename` 命令来停止对应端口的服务。其中 `servicename` 是对应端口的服务名称，例如：\n     - `net stop RpcSs` 用于停止端口 135 的服务。\n     - `net stop LanmanServer` 用于停止端口 139 的服务。\n     - `net stop LanmanWorkstation` 用于停止端口 445 的服务。\n\n请注意，关闭这些端口可能会影响系统的正常功能，应谨慎操作。另外，确保您具有足够的权限以执行这些操作。","user_id":"q15423q","chat_id":"","bot_id":"wxid_tbtmkldytqz322"}
+2024/03/05 17:09:31.743 [1;44m[D][0m  西瓜消息发送详情： {"to_wxid":"q15423q","api":"SendTextMsg","msg":"在 Windows 系统中，关闭特定端口需要通过防火墙设置或者停止对应的服务来实现。以下是针对端口 135、139 和 445 的关闭方法：\n\n1. **通过 Windows防火墙关闭端口**：\n   - 打开控制面板，进入\"系统和安全\"，然后点击\"Windows Defender 防火墙\"。\n   - 在左侧导航栏中，选择\"高级设置\"。\n   - 在\"入站规则\"中，点击\"新建规则\"。\n   - 选择\"端口\"，然后点击\"下一步\"。\n   - 选择\"特定本地端口\"，输入要关闭的端口号（例如 135、139 或 445），然后点击\"下一步\"。\n   - 选择\"拒绝连接\"，然后点击\"下一步\"。\n   - 根据需要选择应用规则的网络位置，然后点击\"下一步\"。\n   - 输入规则名称，然后点击\"完成\"。\n\n2. **停止对应的服务**：\n   - 打开命令提示符（CMD）。\n   - 输入 `net stop servicename` 命令来停止对应端口的服务。其中 `servicename` 是对应端口的服务名称，例如：\n     - `net stop RpcSs` 用于停止端口 135 的服务。\n     - `net stop LanmanServer` 用于停止端口 139 的服务。\n     - `net stop LanmanWorkstation` 用于停止端口 445 的服务。\n\n请注意，关闭这些端口可能会影响系统的正常功能，应谨慎操作。另外，确保您具有足够的权限以执行这些操作。"}
+2024/03/05 17:09:31.752 [1;44m[D][0m  西瓜消息发送结果： {"Code":0,"Result":"OK"}
+2024/03/05 17:09:33.318 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":1,"msg":"在 Windows 系统中，关闭特定端口需要通过防火墙设置或者停止对应的服务来实现。以下是针对端口 135、139 和 445 的关闭方法：\r\n\r\n1. **通过 Windows防火墙关闭端口**：\r\n   - 打开控制面板，进入\"系统和安全\"，然后点击\"Windows Defender 防火墙\"。\r\n   - 在左侧导航栏中，选择\"高级设置\"。\r\n   - 在\"入站规则\"中，点击\"新建规则\"。\r\n   - 选择\"端口\"，然后点击\"下一步\"。\r\n   - 选择\"特定本地端口\"，输入要关闭的端口号（例如 135、139 或 445），然后点击\"下一步\"。\r\n   - 选择\"拒绝连接\"，然后点击\"下一步\"。\r\n   - 根据需要选择应用规则的网络位置，然后点击\"下一步\"。\r\n   - 输入规则名称，然后点击\"完成\"。\r\n\r\n2. **停止对应的服务**：\r\n   - 打开命令提示符（CMD）。\r\n   - 输入 `net stop servicename` 命令来停止对应端口的服务。其中 `servicename` 是对应端口的服务名称，例如：\r\n     - `net stop RpcSs` 用于停止端口 135 的服务。\r\n     - `net stop LanmanServer` 用于停止端口 139 的服务。\r\n     - `net stop LanmanWorkstation` 用于停止端口 445 的服务。\r\n\r\n请注意，关闭这些端口可能会影响系统的正常功能，应谨慎操作。另外，确保您具有足够的权限以执行这些操作。","to_wxid":"q15423q","to_name":"ω Sy.","clientid":0,"robot_type":0,"msg_id":"8901409111209189152"}}
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:10:00.022 [1;34m[I][0m  令牌有效期剩余 84969 s
+2024/03/05 17:10:00.059 [1;34m[I][0m  已重载 SyTelegram Bot.js
+2024/03/05 17:10:01.075 [1;34m[I][0m  已重载 QQ频道机器人.js
+2024/03/05 17:10:01.319 [1;33m[W][0m  tg机器人6653720576因冲突销毁！
+2024/03/05 17:10:01.319 [1;34m[I][0m  tg机器人(6653720576)已初始化
+2024/03/05 17:10:02.183 [1;34m[I][0m  qc机器人(5695366038526264929)已销毁
+[CLIENT] 开启
+shards 不存在
+[CLIENT] 鉴权通过
+[CLIENT] 发送第一次心跳 { op: 1, d: 1 }
+2024/03/05 17:10:03.754 [1;34m[I][0m  qc机器人(5695366038526264929)已初始化
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+2024/03/05 17:34:01.683 [1;44m[D][0m  西瓜接收消息： {"Event":"EventPrivateChat","content":{"msg":"<msg>\r\n    <appmsg appid=\"\" sdkver=\"0\">\r\n        <title><![CDATA[划重点、晒亮点！今年广东工会这样做→]]></title>\r\n        <des><![CDATA[]]></des>\r\n        <action></action>\r\n        <type>5</type>\r\n        <showtype>1</showtype>\r\n        <content><![CDATA[]]></content>\r\n        <contentattr>0</contentattr>\r\n        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=Mzg3NjEwMjcxMg==&mid=2248046509&idx=1&sn=2eccacf8ab0bd2105ffbd42000a3f0de&chksm=cebd329a7f9792b36685915d748731934be4ef38f5c2db274ddb885b753a988e3162f2cf16d1&scene=0&xtrack=1#rd]]></url>\r\n        <lowurl><![CDATA[]]></lowurl>\r\n        <appattach>\r\n            <totallen>0</totallen>\r\n            <attachid></attachid>\r\n            <fileext></fileext>\r\n        </appattach>\r\n        <extinfo></extinfo>\r\n        <mmreader>\r\n            <category type=\"20\" count=\"1\">\r\n                <name><![CDATA[广东省总工会]]></name>\r\n                <topnew>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ah2fKiakXvmTTem2VewWVibbp2MVI7kRuuGYGgeEprKCoHhiaV8cRxkDolggiaxzcpdTeAqDTNI2eqKn2WPYNybRicw/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <width>0</width>\r\n                    <height>0</height>\r\n                    <digest><![CDATA[]]></digest>\r\n                </topnew>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>0</itemshowtype>\r\n                    <title><![CDATA[划重点、晒亮点！今年广东工会这样做→]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=Mzg3NjEwMjcxMg==&mid=2248046509&idx=1&sn=2eccacf8ab0bd2105ffbd42000a3f0de&chksm=ce643efefe4b1a5d8f31d42f0e88b7315ac91113a6514951a963fb7f7ff293393df7d1bea84f&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709631000</pub_time>\r\n                    <summary><![CDATA[3月4日广东省总工会第十四届常务委员会第七次（扩大）会议在广州召开会议总结了2023年全省工会工作部署了2024年工作任务一起看看↓↓↓广东工会融媒体中心制图转载时注明出处广东工会融媒体中心编辑：张奕]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ah2fKiakXvmTTem2VewWVibbp2MVI7kRuuGYGgeEprKCoHhiaV8cRxkDolggiaxzcpdTeAqDTNI2eqKn2WPYNybRicw/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[]]></digest>\r\n                    <fileid>0</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[广东省总工会]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>0</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls></pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356080309175566342</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ah2fKiakXvmTTem2VewWVibbp2MVI7kRuuGYGgeEprKCoHhiaV8cRxkDolggiaxzcpdTeAqDTNI2eqKn2WPYNybRicw/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ah2fKiakXvmTTem2VewWVibbp2MVI7kRuuHxkoUKRzAfrd88oibDl5kLLWRa2GiaRw0EaMq7gGeICYKycOY2Dtgydw/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ah2fKiakXvmTTem2VewWVibbp2MVI7kRuuGYGgeEprKCoHhiaV8cRxkDolggiaxzcpdTeAqDTNI2eqKn2WPYNybRicw/640?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n            </category>\r\n            <publisher>\r\n                <username><![CDATA[gh_86b34e7fa4bc]]></username>\r\n                <nickname><![CDATA[广东省总工会]]></nickname>\r\n            </publisher>\r\n            <template_header></template_header>\r\n            <template_detail></template_detail>\r\n            <forbid_forward>0</forbid_forward>\r\n        </mmreader>\r\n        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ah2fKiakXvmTTem2VewWVibbp2MVI7kRuuGYGgeEprKCoHhiaV8cRxkDolggiaxzcpdTeAqDTNI2eqKn2WPYNybRicw/640?wxtype=jpeg&wxfrom=0]]></thumburl>\r\n    </appmsg>\r\n    <fromusername><![CDATA[gh_86b34e7fa4bc]]></fromusername>\r\n    <appinfo>\r\n        <version></version>\r\n        <appname><![CDATA[广东省总工会]]></appname>\r\n        <isforceupdate>1</isforceupdate>\r\n    </appinfo>\r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n</msg>","clientid":0,"robot_type":0,"msg_id":"3337661147231534890","robot_wxid":"wxid_tbtmkldytqz322","type":49,"from_wxid":"gh_86b34e7fa4bc","from_name":"广东省总工会"},"sdkVer":6}
+2024/03/05 17:34:01.775 [1;34m[I][0m  接收到消息 wx/gh_86b34e7fa4bc@：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=Mzg3NjEwMjcxMg==&mid=2248046509&idx=1&sn=2eccacf8ab0bd2105ffbd42000a3f0de&chksm=cebd329a7f9792b36685915d748731934be4ef38f5c2db274ddb885b753a988e3162f2cf16d1&scene=0&xtrack=1#rd, title=划重点、晒亮点！今年广东工会这样做→, content=, appid=]
+2024/03/05 17:34:01.849 [1;34m[I][0m  匹配到规则：(https?:\/\/[^\s<>]+|[^一-龥0-9a-zA-Z=;&?-_.<>:'",{}][0-9a-zA-Z()]{11}[^一-龥0-9a-zA-Z=;&?-_.<>:'",{}\s])
+2024/03/05 17:34:01.870 [1;34m[I][0m  继续去处理：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=Mzg3NjEwMjcxMg==&mid=2248046509&idx=1&sn=2eccacf8ab0bd2105ffbd42000a3f0de&chksm=cebd329a7f9792b36685915d748731934be4ef38f5c2db274ddb885b753a988e3162f2cf16d1&scene=0&xtrack=1#rd, title=划重点、晒亮点！今年广东工会这样做→, content=, appid=]
+2024/03/05 17:34:01.881 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:34:01.899 [1;34m[I][0m  继续去处理：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=Mzg3NjEwMjcxMg==&mid=2248046509&idx=1&sn=2eccacf8ab0bd2105ffbd42000a3f0de&chksm=cebd329a7f9792b36685915d748731934be4ef38f5c2db274ddb885b753a988e3162f2cf16d1&scene=0&xtrack=1#rd, title=划重点、晒亮点！今年广东工会这样做→, content=, appid=]
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 心跳校验 { op: 1, d: 1 }
+[CLIENT] 等待断线重连中...
+[CLIENT] 连接关闭 4009
+[CLIENT] 重新连接中，尝试次数： 1
+[ERROR] 事件接收 : { eventType: 'ERROR', msg: '连接过期，请重连' }
+[CLIENT] 开启
+[CLIENT] 连接成功
+[CLIENT] 心跳校验 { op: 1, d: null }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:41:40.027 [1;34m[I][0m  已重载 Sy热风.js
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:43:13.472 [1;44m[D][0m  西瓜接收消息： {"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":3,"from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","msg_source":null,"clientid":0,"msg_id":"3975876533000735059","from_wxid":"daitaizi","from_name":"戴医生","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\31aedbc36c07afa519faef3072aada4f.jpg]","robot_type":0},"sdkVer":6}
+2024/03/05 17:43:13.549 [1;34m[I][0m  接收到消息 wx/daitaizi@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/31aedbc36c07afa519faef3072aada4f.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\31aedbc36c07afa519faef3072aada4f.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:43:13.602 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:43:14.845 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:43:14.845 [1;34m[I][0m  0
+2024/03/05 17:43:14.855 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+2024/03/05 17:43:19.656 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"from_group":"39249416841@chatroom","from_name":"赵百梁","msg_source":null,"clientid":0,"msg_id":"3177572907956026825","type":1,"from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_9i7qklt7ybqp11","msg":"[抱拳][抱拳][抱拳]","robot_type":0,"robot_wxid":"wxid_tbtmkldytqz322"}}
+2024/03/05 17:43:19.662 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[抱拳][抱拳][抱拳]
+2024/03/05 17:43:19.699 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:43:19.707 [1;34m[I][0m  继续去处理：[抱拳][抱拳][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:45:17.113 [1;34m[I][0m  已重载 Sy热风.js
+2024/03/05 17:45:21.163 [1;34m[I][0m  接收到消息 web/0jmicL4DyVRX@：hot
+2024/03/05 17:45:21.168 [1;34m[I][0m  匹配到规则：^hot$
+2024/03/05 17:45:21.174 [1;34m[I][0m  0fc2af4e2596b086d2e06be3c2556934d91beac8f469f67a12c6af66a19f5aa6699736b937c22b581a7d136d69073b34
+2024/03/05 17:45:21.568 [1;34m[I][0m  �      5��
+�0��%sɟ�i������m�A�Dp�.�B�������g���Ζ�uVQL�DQ��M�Mb�x=���ow��ޙ���>�a<�_���"��,�y�$���i�ŭ]2.����5��.4�4�A@W	`�
+)�|�,�2m�گM��"+�-�
+��D�q0�C�:Yd�C$���d��   
+2024/03/05 17:45:21.568 [1;34m[I][0m  {"errcode":"0","errmsg":"success","bizErrmsg":null,"data":{"planId":"4001873629130","pointName":"积分","status":null,"acctId":null,"availablePoint":0,"frozenPoint":0,"totalPoint":0,"sumAvailablePoint":0,"sumTotalPoint":0,"isMultiPointAccount":false,"wxMsgPluginOpenFlag":null,"onTheWayPoint":0,"expiredPint":0,"reminderContent":null,"cycleFlag":null,"tempExpireDate":null,"showExpireTime":0,"wxPlatformNoPerceptPointFlag":null,"expireDate":null},"globalTicket":"23365-1709631921.399-saas-w1-1556-23359208620","monitorTrackId":null}
+2024/03/05 17:45:21.575 [1;31m[E][0m  SyntaxError: invalid character '\x1f' looking for beginning of value at parse (native)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:45:39.551 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":3,"from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_jmb60rc61r2o11","from_name":"山","msg_id":"1080716376391330802","from_group":"39249416841@chatroom","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\e44b3114b3fdd72e9f21b776a119dbfc.jpg]","msg_source":null,"clientid":0,"robot_type":0}}
+2024/03/05 17:45:39.555 [1;34m[I][0m  接收到消息 wx/wxid_jmb60rc61r2o11@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/e44b3114b3fdd72e9f21b776a119dbfc.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\e44b3114b3fdd72e9f21b776a119dbfc.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:45:39.557 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:45:39.871 [1;34m[I][0m  {"status":0,"info":"\u6587\u4ef6\u5927\u5c0f\u8d85\u51fa"}
+2024/03/05 17:45:39.875 [1;31m[E][0m  TypeError: Cannot read property 'info' of undefined at cli (Sy计划任务.js:364:47(80))
+2024/03/05 17:45:47.967 [1;34m[I][0m  已重载 Sy热风.js
+2024/03/05 17:45:48.996 [1;34m[I][0m  接收到消息 web/0jmicL4DyVRX@：hot
+2024/03/05 17:45:48.998 [1;34m[I][0m  匹配到规则：^hot$
+2024/03/05 17:45:49.001 [1;34m[I][0m  0fc2af4e2596b086d2e06be3c2556934d91beac8f469f67a12c6af66a19f5aa6699736b937c22b581a7d136d69073b34
+2024/03/05 17:45:49.191 [1;34m[I][0m  {"errcode":"80010000000009","errmsg":"服务错误,请联系我们","data":null,"globalTicket":"23361-1709631949.023-saas-w1-1571-23359271429","monitorTrackId":"73b03fce-d022-47a7-bfd8-13aa8383192d"}
+2024/03/05 17:45:49.191 [1;34m[I][0m  {"errcode":"0","errmsg":"success","bizErrmsg":null,"data":{"planId":"4001873629130","pointName":"积分","status":null,"acctId":null,"availablePoint":0,"frozenPoint":0,"totalPoint":0,"sumAvailablePoint":0,"sumTotalPoint":0,"isMultiPointAccount":false,"wxMsgPluginOpenFlag":null,"onTheWayPoint":0,"expiredPint":0,"reminderContent":null,"cycleFlag":null,"tempExpireDate":null,"showExpireTime":0,"wxPlatformNoPerceptPointFlag":null,"expireDate":null},"globalTicket":"23611-1709631949.087-saas-w1-1543-23365067345","monitorTrackId":null}
+2024/03/05 17:45:49.191 [1;34m[I][0m  
+①【签到账号】：157
+　【签到结果】：服务错误,请联系我们
+2024/03/05 17:45:50.192 [1;34m[I][0m  822eb0c5591bc4ca55c3dc640f40a0f16ff0cee74c78c2bafdc861f6b71ed79ddcd51f67e67eef7d92525d6eb4a774d2
+2024/03/05 17:45:50.288 [1;34m[I][0m  {"errcode":1041,"errmsg":"获取登录信息失败,请重新登录"}
+2024/03/05 17:45:50.288 [1;34m[I][0m  {"errcode":1041,"errmsg":"获取登录信息失败,请重新登录"}
+2024/03/05 17:45:50.288 [1;34m[I][0m  
+②【签到账号】：176
+　【签到结果】：获取登录信息失败,请重新登录
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:46:42.450 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_9i7qklt7ybqp11","msg_id":"5974692335185830087","type":1,"from_group":"39249416841@chatroom","from_name":"赵百梁","msg":"[抱拳][抱拳][抱拳]","msg_source":null,"clientid":0,"robot_type":0}}
+2024/03/05 17:46:42.454 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[抱拳][抱拳][抱拳]
+2024/03/05 17:46:42.481 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:46:42.494 [1;34m[I][0m  继续去处理：[抱拳][抱拳][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:49:31.932 [1;44m[D][0m  西瓜接收消息： {"content":{"type":1,"from_wxid":"wxid_9i7qklt7ybqp11","from_name":"赵百梁","msg":"在咱们这个群里的同志们，基本都下载了爱槐荫APP，就是我们平时扫码参加活动的这个APP，只需要关注一下我们吴家堡街道政务号截个图就就可以，辛苦大家了[抱拳][抱拳][抱拳]","msg_source":null,"robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","clientid":0,"robot_type":0,"msg_id":"3992381104105885222"},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 17:49:32.007 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：在咱们这个群里的同志们，基本都下载了爱槐荫APP，就是我们平时扫码参加活动的这个APP，只需要关注一下我们吴家堡街道政务号截个图就就可以，辛苦大家了[抱拳][抱拳][抱拳]
+2024/03/05 17:49:32.059 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:49:32.073 [1;34m[I][0m  继续去处理：在咱们这个群里的同志们，基本都下载了爱槐荫APP，就是我们平时扫码参加活动的这个APP，只需要关注一下我们吴家堡街道政务号截个图就就可以，辛苦大家了[抱拳][抱拳][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:51:12.171 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventDeviceCallback","content":{"robot_type":0,"msg_id":"1974788885733637549","robot_wxid":"wxid_tbtmkldytqz322","type":1,"msg":"ok","to_wxid":"q15423q","to_name":"ω Sy.","clientid":0}}
+2024/03/05 17:51:25.231 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventPrivateChat","content":{"msg":"<msg>\r\n    <appmsg appid=\"\" sdkver=\"0\">\r\n        <title><![CDATA[畅玩乐园5折起！长隆三月就宠妳！]]></title>\r\n        <des><![CDATA[快来长隆领取你的女士专属福利~]]></des>\r\n        <action></action>\r\n        <type>5</type>\r\n        <showtype>1</showtype>\r\n        <content><![CDATA[]]></content>\r\n        <contentattr>0</contentattr>\r\n        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=1&sn=e6178d2b2216895d06b8a94c888c59d2&chksm=8584ee0f71f387c31a00d01d3186a0af01b55e46bd37f472af698ad5bf01a94630529ae4cece&scene=0&xtrack=1#rd]]></url>\r\n        <lowurl><![CDATA[]]></lowurl>\r\n        <appattach>\r\n            <totallen>0</totallen>\r\n            <attachid></attachid>\r\n            <fileext></fileext>\r\n        </appattach>\r\n        <extinfo></extinfo>\r\n        <mmreader>\r\n            <category type=\"20\" count=\"5\">\r\n                <name><![CDATA[长隆旅游]]></name>\r\n                <topnew>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2DW96zZ4SyZNEjlrTv6bQ8ArFvLZvkbmDxb6CvIshYfltW2ddIoISag/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <width>0</width>\r\n                    <height>0</height>\r\n                    <digest><![CDATA[快来长隆领取你的女士专属福利~]]></digest>\r\n                </topnew>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>0</itemshowtype>\r\n                    <title><![CDATA[畅玩乐园5折起！长隆三月就宠妳！]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=1&sn=e6178d2b2216895d06b8a94c888c59d2&chksm=85fde9a922c3788e9409b8d0e00a72fbd3ecdeb589b8d168381a59542ebac8591a7e5b42deaf&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709631288</pub_time>\r\n                    <summary><![CDATA[开春与节日相遇长隆为妳准备了超多福利！超棒的女神专属场景等你来解锁！春日出行，优惠与自由共享~女神特别号小火车，超有氛围感带您进入奇妙世界和熊猫对视，与考拉相望萌到你心颤~还可乘坐空中缆车，视野超开阔]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2DW96zZ4SyZNEjlrTv6bQ8ArFvLZvkbmDxb6CvIshYfltW2ddIoISag/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[快来长隆领取你的女士专属福利~]]></digest>\r\n                    <fileid>509598065</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[长隆旅游]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>0</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls></pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356097822491885572</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2DW96zZ4SyZNEjlrTv6bQ8ArFvLZvkbmDxb6CvIshYfltW2ddIoISag/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2bY9yo7Qic9sJb3ic53EbxQ6q3qjiaol8S5pVqlryI6Ayqe6IiabX4HEItg/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2DW96zZ4SyZNEjlrTv6bQ8ArFvLZvkbmDxb6CvIshYfltW2ddIoISag/640?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>0</itemshowtype>\r\n                    <title><![CDATA[住玩全包998元起 |  超全酒店攻略玩转长隆]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=2&sn=4b8727b3ee953728c8a6208ff4af8d30&chksm=8580fb98f70e1b60d16b12f8da0de706599cc255a886b21f0a56fb2453b83425478920da295c&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709631288</pub_time>\r\n                    <summary><![CDATA[此刻正是错峰出游的好时机找个周末，带上娃，泡在酒店慢慢玩休息带娃两不误，岂不美哉？！广州&珠海长隆走起这里不仅有得玩，还有得住7大酒店超级宠妳特惠住房套票治愈你的“选择困难症”！7大酒店选择攻略来啦！]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3Oh5yLEicjZ9dPDPoMaomHV7ByAySPQH6FVUHdfdvhJ7lcevFiaiadia6z7w/300?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[错峰体验长隆7大酒店，省钱又好玩]]></digest>\r\n                    <fileid>509596913</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[长隆旅游]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>0</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls></pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356097824874250241</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3Oia4nqibKTTwMkVIvOz62hiaBEgFqtldCTtRPfX90NUDPaJC3nzofZiazrQ/300?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3Oh5yLEicjZ9dPDPoMaomHV7ByAySPQH6FVUHdfdvhJ7lcevFiaiadia6z7w/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3Oh5yLEicjZ9dPDPoMaomHV7ByAySPQH6FVUHdfdvhJ7lcevFiaiadia6z7w/300?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>8</itemshowtype>\r\n                    <title><![CDATA[一秒看懂！横琴封关交通攻略，游长隆必看！]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=3&sn=ad3a530a6e11e2d295d2beecabb1f39d&chksm=85a7a47532b3c0f2a5a85d84f488f99acb01b3ffced48d53e391623fe18d7573676300bafee4&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709631288</pub_time>\r\n                    <summary><![CDATA[3月1日0时起，横琴将正式分线管理封关运行来珠海横琴长隆游玩，出岛交通将有变化！以下交通建议攻略请码住！教你丝滑进出横琴游玩珠海横琴长隆~??\r\n\r\n??【划重点→太长不看总结版】：\r\n①游客进岛：交通方式无变]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy21brTL9qrkAPTbWZicZJy0ZZDcbqibUUwTHU2uS84rlfvicsfwCsEzfZxg/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[3月1日0时起，横琴将正式分线管理封关运行来珠海横琴长隆游玩，出岛交通将有变化！以下交通建议攻略请码住！教你丝滑进出横琴游玩珠海横琴长隆~??\r\n\r\n??【划重点→太长不看总结版】：\r\n①游客进岛：交通方式无变化，建议携带身份证明\r\n②游客出岛：乘公交巴士被抽检需下车查验；乘城轨或在横琴码头乘船，需经站内海关旅检大厅按规定出岛；自驾小客车可经横琴大桥、横琴隧道抽检出岛，如从深井通道、十字门隧道出岛需在珠海长隆度假区内提前扫码备案（备案方式请见图5）\r\n\r\n??【福利→长隆便捷交通】\r\n珠海横琴长隆四大酒店均拥有免费穿梭巴士每天多班次直达城轨长隆站，助您便捷乘坐广珠城轨，更有长隆至车站/机场直达车辆\r\n\r\n??详细封关交通攻略看这里\r\n一、【进岛】：\r\n游客进岛交通方式暂无变化，但建议携带本人有效的身份证件(如身份证)，出岛时被抽检车辆可能需出示证件\r\n\r\n二、【出岛】\r\n①【广珠城轨/横琴码头】：\r\n通行时间以列车/船舶实际班次安排为准。乘客经站内海关旅检大厅通行，按乘车/乘船规定出岛\r\n\r\n②【出租车/网约车】：\r\n车辆经琴海东路进入“二线”通道，未被抽检车辆可直接出岛；被抽检车辆按指引进入查验场，经查验后出岛\r\n\r\n③【公交】被抽检需下车查验\r\n公交车经琴海东路进入“二线”通道，未被抽检车辆可直接出岛；被抽检车辆落客后，经查验场查验后出岛，乘客携带行李物品步行经出岛大厅至“大桥二线通道北”站乘车出岛。<a target=\"_blank\" href=\"https://mp.weixin.qq.com/s?__biz=MzAwMjA5MzcwNA==&amp;mid=2652735084&amp;idx=1&amp;sn=198fb0ccd2c3417ad2533768bf25c08c&amp;scene=142#wechat_redirect\">（请点击此处查看封关后巴士线路调整）</a>\r\n\r\n④【小客车自驾】经“二线通道”出岛：\r\n√【横琴大桥】通行时间：全天\r\n小客车及行人均可通行，未被抽检小客车可直接出岛；被抽检车辆按指引进入查验场，经查验后出岛\r\n\r\n√【横琴隧道】\r\n通行时间：全天\r\n小客车均可通行，未被抽检小客车可直接出岛；被抽检小客车按指引进入查验场，经查验后出岛\r\n\r\n√【深井通道】（车辆需备案，见图5）\r\n通行时间：06:00至24:00\r\n仅通行旅游大巴、备案小客车，未被抽检车辆可直接出岛；被抽检车辆按指引进入查验场，经查验后出岛\r\n\r\n√【十字门隧道】（车辆需备案，见图5）\r\n通行时间：08:00至24:00\r\n仅通行备案小客车，未被抽检车辆可直接出岛；被抽检车辆按指引进入查验场，经查验后出岛\r\n\r\n如需了解其他车辆类型的详细交通信息，请点此处→<a target=\"_blank\" href=\"https://mp.weixin.qq.com/s?__biz=MzA3MDMxNTgxMw==&amp;mid=2654208728&amp;idx=1&amp;sn=318cb4874bacba9ddad9c43a003dcecf&amp;token=23714557&amp;lang=zh_CN&amp;scene=142#wechat_redirect\">查看合作区人员及车辆出岛公告</a>（以上信息若有变动，请以合作区执委会微信官方公众号“横琴在线”为准）]]></digest>\r\n                    <fileid>0</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[长隆旅游]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>6</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls><pic_url><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2zeqQzIY3SOiauRLgAeJoaNU1u5wiblL1skAXOsfI6yLcHKXYF5f4pxAA/0]]></pic_url>\r\n<pic_url><![CDATA[https://mmbiz.qpic.cn/mmbiz_png/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2iaX79QS2eG49XS6Kg5XYHLzLZAEUzoibGEII58c1tAJicSMPEic4iboHSdg/0]]></pic_url>\r\n<pic_url><![CDATA[https://mmbiz.qpic.cn/mmbiz_png/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2Cezmr679QdbNG9dO0hau6KrlJvjrEqpe9pdymh2RouHaibCt9VcRovw/0]]></pic_url>\r\n<pic_url><![CDATA[https://mmbiz.qpic.cn/mmbiz_png/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2eMdLrhPjciafN8MfMRJj5KGWyAjrOXibWXPl2HWq4u8Q0bJrgjQXJpJw/0]]></pic_url>\r\n<pic_url><![CDATA[https://mmbiz.qpic.cn/mmbiz_png/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2FSiaArrNSg89RkD6jLa9Unk5ibicibwkmHU3ticugZ93ebIpktV6oh3nPiaA/0]]></pic_url>\r\n<pic_url><![CDATA[https://mmbiz.qpic.cn/mmbiz_png/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2CWkvLu7Fe4sxJ6eJqf3OI9mwibaMbRcOlYR04rY4yNRJONvy8ibfWEsQ/0]]></pic_url>\r\n<pic_info_list>\r\n<height>1439</height>\r\n<width>1080</width>\r\n</pic_info_list>\r\n<pic_info_list>\r\n<height>1443</height>\r\n<width>1080</width>\r\n</pic_info_list>\r\n<pic_info_list>\r\n<height>1443</height>\r\n<width>1080</width>\r\n</pic_info_list>\r\n<pic_info_list>\r\n<height>1443</height>\r\n<width>1080</width>\r\n</pic_info_list>\r\n<pic_info_list>\r\n<height>1443</height>\r\n<width>1080</width>\r\n</pic_info_list>\r\n<pic_info_list>\r\n<height>1443</height>\r\n<width>1080</width>\r\n</pic_info_list>\r\n</pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356097827860594690</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy21brTL9qrkAPTbWZicZJy0ZZDcbqibUUwTHU2uS84rlfvicsfwCsEzfZxg/300?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2YzAtaxJO1cnLGWCWa2K7aTx60mxSZDGCuBpwQCh97B6BGCdH7r2Kdg/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy21brTL9qrkAPTbWZicZJy0ZZDcbqibUUwTHU2uS84rlfvicsfwCsEzfZxg/300?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>0</itemshowtype>\r\n                    <title><![CDATA[活动招募 | 全新升级！一起来熊猫城堡唤醒春日魔法吧]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=4&sn=4e75782584d5015e57e2adaf53e6f43b&chksm=853f15880d688d0900f0d8ada70751546b0a6d9e639d8ca0e017711647d5da4ccf216549364f&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709631288</pub_time>\r\n                    <summary><![CDATA[]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OW4HGic29WUQBlztsoib2e2XWAxPQFQfPpPsCSh2dNxLNJSmurSUH580w/300?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[闯入马戏魔法世界，感受魔术的神奇魅力]]></digest>\r\n                    <fileid>509596919</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[长隆旅游]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>0</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls></pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356097830377177091</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3O9hP0vROlG2JcwSwyqrRaYv4krOqyFQMtLE6c82ibsic4mtf86U0zQMuA/300?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OW4HGic29WUQBlztsoib2e2XWAxPQFQfPpPsCSh2dNxLNJSmurSUH580w/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OW4HGic29WUQBlztsoib2e2XWAxPQFQfPpPsCSh2dNxLNJSmurSUH580w/300?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>0</itemshowtype>\r\n                    <title><![CDATA[3月会员权益，看这一篇就够啦！]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=5&sn=a81a4c3dac5644d0deabf6e1c8ecd531&chksm=858bd409cfb67131ded550955f9bc111ec985be117cc8ab32df0c6233b2bef288db94be28c15&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709631288</pub_time>\r\n                    <summary><![CDATA[3月来临春意浓，迷人的春天已占领乐园！快来长隆开启春日度假模式叭～更划算的3月游园福利先睹为快，加入长隆欢享家，噔噔噔~积分抵现、免费升房、免费升座、餐饮折扣全都有！会员到底能享受哪些福利？一起来看看]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OzL0K0Q6ySFRU0oY2Zjg675LdsLoq3lnJcsyXQM1X1C6xXu8yck6GeQ/300?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[3月抽奖上新，会员福利抢先知]]></digest>\r\n                    <fileid>509596877</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[长隆旅游]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>0</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls></pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356097832776318978</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OpxDMTTQVpam0omoqu7FiaDz1lt12U4dh3cClBR3JhEbLd9NVZTcicD9g/300?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OzL0K0Q6ySFRU0oY2Zjg675LdsLoq3lnJcsyXQM1X1C6xXu8yck6GeQ/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQZO98wAWxR4HhliciaZ76GT3OzL0K0Q6ySFRU0oY2Zjg675LdsLoq3lnJcsyXQM1X1C6xXu8yck6GeQ/300?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n            </category>\r\n            <publisher>\r\n                <username><![CDATA[gh_6b97e7e07354]]></username>\r\n                <nickname><![CDATA[长隆旅游]]></nickname>\r\n            </publisher>\r\n            <template_header></template_header>\r\n            <template_detail></template_detail>\r\n            <forbid_forward>0</forbid_forward>\r\n        </mmreader>\r\n        <thumburl><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/DsXiaVDlKhQa4TEB0Uibj5uDske2EJwyy2DW96zZ4SyZNEjlrTv6bQ8ArFvLZvkbmDxb6CvIshYfltW2ddIoISag/640?wxtype=jpeg&wxfrom=0]]></thumburl>\r\n    </appmsg>\r\n    <fromusername><![CDATA[gh_6b97e7e07354]]></fromusername>\r\n    <appinfo>\r\n        <version></version>\r\n        <appname><![CDATA[长隆旅游]]></appname>\r\n        <isforceupdate>1</isforceupdate>\r\n    </appinfo>\r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    <cache networktype=\"1\" scene=\"2\" expiretime=\"0\" appid=\"wx3be6367203f983ac\"><page><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=1&sn=e6178d2b2216895d06b8a94c888c59d2&chksm=843f8445b3480d53a151db91827d3006f76d16c5a761f0edfbfe9c7ed3a572cb8346e03259c2&scene=0&xtrack=1#rd]]></page>\r\n</cache>\r\n    \r\n</msg>","clientid":0,"robot_type":0,"msg_id":"2961672607484276663","robot_wxid":"wxid_tbtmkldytqz322","type":49,"from_wxid":"gh_6b97e7e07354","from_name":"长隆旅游"}}
+2024/03/05 17:51:25.258 [1;34m[I][0m  接收到消息 wx/gh_6b97e7e07354@：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=1&sn=e6178d2b2216895d06b8a94c888c59d2&chksm=8584ee0f71f387c31a00d01d3186a0af01b55e46bd37f472af698ad5bf01a94630529ae4cece&scene=0&xtrack=1#rd, title=畅玩乐园5折起！长隆三月就宠妳！, content=快来长隆领取你的女士专属福利~, appid=]
+2024/03/05 17:51:25.264 [1;34m[I][0m  匹配到规则：(https?:\/\/[^\s<>]+|[^一-龥0-9a-zA-Z=;&?-_.<>:'",{}][0-9a-zA-Z()]{11}[^一-龥0-9a-zA-Z=;&?-_.<>:'",{}\s])
+2024/03/05 17:51:25.275 [1;34m[I][0m  继续去处理：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=1&sn=e6178d2b2216895d06b8a94c888c59d2&chksm=8584ee0f71f387c31a00d01d3186a0af01b55e46bd37f472af698ad5bf01a94630529ae4cece&scene=0&xtrack=1#rd, title=畅玩乐园5折起！长隆三月就宠妳！, content=快来长隆领取你的女士专属福利~, appid=]
+2024/03/05 17:51:25.275 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:51:25.282 [1;34m[I][0m  继续去处理：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=MzA4MTQzOTgzOA==&mid=2657081716&idx=1&sn=e6178d2b2216895d06b8a94c888c59d2&chksm=8584ee0f71f387c31a00d01d3186a0af01b55e46bd37f472af698ad5bf01a94630529ae4cece&scene=0&xtrack=1#rd, title=畅玩乐园5折起！长隆三月就宠妳！, content=快来长隆领取你的女士专属福利~, appid=]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:53:54.319 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventPrivateChat","content":{"clientid":0,"robot_type":0,"msg_id":"2782240760195854811","robot_wxid":"wxid_tbtmkldytqz322","type":49,"from_wxid":"gh_4056de31a0bf","from_name":"仁捷艺术馆","msg":"<msg>\r\n    <appmsg appid=\"\" sdkver=\"0\">\r\n        <title><![CDATA[今天惊蛰！在艺术中感受春气萌动！]]></title>\r\n        <des><![CDATA[所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。]]></des>\r\n        <action></action>\r\n        <type>5</type>\r\n        <showtype>1</showtype>\r\n        <content><![CDATA[]]></content>\r\n        <contentattr>0</contentattr>\r\n        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA3ODIwNDIwNw==&mid=2650512542&idx=1&sn=5f0510cabe35c4726046dffe5f6425e7&chksm=86fc436f00494e4e31562508039285030cb0d3b5b73b38f805a55909ddedf58482470a3c6fe1&scene=0&xtrack=1#rd]]></url>\r\n        <lowurl><![CDATA[]]></lowurl>\r\n        <appattach>\r\n            <totallen>0</totallen>\r\n            <attachid></attachid>\r\n            <fileext></fileext>\r\n        </appattach>\r\n        <extinfo></extinfo>\r\n        <mmreader>\r\n            <category type=\"20\" count=\"1\">\r\n                <name><![CDATA[仁捷艺术馆]]></name>\r\n                <topnew>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/e8qicbjbBPERwOxnfaLhxuww1YUoGdia9RdsV348PgCCUrZcpOl4nSicPVwLlJphwMFP5tN6EGJpiaCF8MpNW6qCWg/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <width>0</width>\r\n                    <height>0</height>\r\n                    <digest><![CDATA[所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。]]></digest>\r\n                </topnew>\r\n                \r\n                <item>\r\n                    <has_redpacket_cover>0</has_redpacket_cover>\r\n                    <text_title><![CDATA[]]></text_title>\r\n                    <itemshowtype>0</itemshowtype>\r\n                    <title><![CDATA[今天惊蛰！在艺术中感受春气萌动！]]></title>\r\n                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA3ODIwNDIwNw==&mid=2650512542&idx=1&sn=5f0510cabe35c4726046dffe5f6425e7&chksm=867ab05c878c9d3a4a39c593c4cf253d631e71b75dcc73f0e188baa53848a2004cbc1e18c580&scene=0&xtrack=1#rd]]></url>\r\n                    <shorturl><![CDATA[]]></shorturl>\r\n                    <longurl><![CDATA[]]></longurl>\r\n                    <pub_time>1709632200</pub_time>\r\n                    <summary><![CDATA[所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。春天也似乎格外被艺术家们青睐，它不仅在视觉上色彩斑澜，还有着很多的象征意义。例如，重生、生命的觉醒等等，一]]></summary>\r\n                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/e8qicbjbBPERwOxnfaLhxuww1YUoGdia9RdsV348PgCCUrZcpOl4nSicPVwLlJphwMFP5tN6EGJpiaCF8MpNW6qCWg/640?wxtype=jpeg&wxfrom=0]]></cover>\r\n                    <tweetid></tweetid>\r\n                    <digest><![CDATA[所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。]]></digest>\r\n                    <fileid>0</fileid>\r\n                    <sources>\r\n                        <source>\r\n                            <name><![CDATA[仁捷艺术馆]]></name>\r\n                        </source>\r\n                    </sources>\r\n                    <styles></styles>\r\n                    <native_url></native_url>\r\n                    <del_flag>0</del_flag>\r\n                    <contentattr>0</contentattr>\r\n                    <play_length>0</play_length>\r\n                    <play_url><![CDATA[]]></play_url>\r\n                    <voice_id><![CDATA[]]></voice_id>\r\n                    <tid><![CDATA[]]></tid>\r\n                    <nonce_id><![CDATA[]]></nonce_id>\r\n                    <voice_type>0</voice_type>\r\n<player><![CDATA[]]></player>\r\n                     \r\n                    \r\n                    <music_source>0</music_source>\r\n                    <pic_num>0</pic_num>\r\n                    <vid></vid>\r\n                    <author><![CDATA[]]></author>\r\n                    <recommendation><![CDATA[]]></recommendation>\r\n                    <pic_urls></pic_urls>\r\n                    <multi_picture_cover></multi_picture_cover>\r\n                    <comment_topic_id>3356100360716861442</comment_topic_id>\r\n                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/e8qicbjbBPERwOxnfaLhxuww1YUoGdia9RdsV348PgCCUrZcpOl4nSicPVwLlJphwMFP5tN6EGJpiaCF8MpNW6qCWg/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>\r\n                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/e8qicbjbBPERwOxnfaLhxuww1YUoGdia9Rib6CicZ0JVELWlUOrgzBBYSpicv7UlZtAKOJkba4dRBxPcCgpFHib5859w/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>\r\n                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/e8qicbjbBPERwOxnfaLhxuww1YUoGdia9RdsV348PgCCUrZcpOl4nSicPVwLlJphwMFP5tN6EGJpiaCF8MpNW6qCWg/640?wxtype=jpeg&wxfrom=0]]></cover_16_9>\r\n                    <appmsg_like_type>2</appmsg_like_type>\r\n                    <video_width>0</video_width>\r\n                    <video_height>0</video_height>\r\n                    <is_pay_subscribe>0</is_pay_subscribe>\r\n\t\t\t<finder_feed>\r\n\t\t\t    <object_id><![CDATA[]]></object_id>\r\n\t\t\t    <object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    <feed_type>0</feed_type>\r\n\t\t\t    <nickname><![CDATA[]]></nickname>\r\n\t\t\t    <avatar><![CDATA[]]></avatar>\r\n\t\t\t    <desc><![CDATA[]]></desc>\r\n\t\t\t    <media_count>0</media_count>\r\n\t\t\t    <media_list>\r\n\t\t\t\t\r\n\t\t\t    </media_list>\r\n\t\t\t    <mega_video>\r\n\t\t\t\t<object_id><![CDATA[]]></object_id>\r\n\t\t\t\t<object_nonce_id><![CDATA[]]></object_nonce_id>\r\n\t\t\t    </mega_video>\r\n\t\t\t</finder_feed>\r\n                        <finder_live>\r\n                            <finder_username><![CDATA[]]></finder_username>\r\n                            <category><![CDATA[]]></category>\r\n                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>\r\n                            <export_id><![CDATA[]]></export_id>\r\n                            <nickname><![CDATA[]]></nickname>\r\n                            <head_url><![CDATA[]]></head_url>\r\n                            <desc><![CDATA[]]></desc>\r\n                            <live_status></live_status>\r\n                            <live_source_type_str><![CDATA[]]></live_source_type_str>\r\n                            <ext_flag></ext_flag>\r\n                            <auth_icon_url><![CDATA[]]></auth_icon_url>\r\n                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>\r\n                            <media>\r\n                                <cover_url><![CDATA[]]></cover_url>\r\n                                <height></height>\r\n                                <width></width>\r\n                            </media>\r\n                        </finder_live>\r\n                </item>\r\n                \r\n            </category>\r\n            <publisher>\r\n                <username><![CDATA[gh_4056de31a0bf]]></username>\r\n                <nickname><![CDATA[仁捷艺术馆]]></nickname>\r\n            </publisher>\r\n            <template_header></template_header>\r\n            <template_detail></template_detail>\r\n            <forbid_forward>0</forbid_forward>\r\n        </mmreader>\r\n        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/e8qicbjbBPERwOxnfaLhxuww1YUoGdia9RdsV348PgCCUrZcpOl4nSicPVwLlJphwMFP5tN6EGJpiaCF8MpNW6qCWg/640?wxtype=jpeg&wxfrom=0]]></thumburl>\r\n    </appmsg>\r\n    <fromusername><![CDATA[gh_4056de31a0bf]]></fromusername>\r\n    <appinfo>\r\n        <version></version>\r\n        <appname><![CDATA[仁捷艺术馆]]></appname>\r\n        <isforceupdate>1</isforceupdate>\r\n    </appinfo>\r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n</msg>"}}
+2024/03/05 17:53:54.342 [1;34m[I][0m  接收到消息 wx/gh_4056de31a0bf@：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=MzA3ODIwNDIwNw==&mid=2650512542&idx=1&sn=5f0510cabe35c4726046dffe5f6425e7&chksm=86fc436f00494e4e31562508039285030cb0d3b5b73b38f805a55909ddedf58482470a3c6fe1&scene=0&xtrack=1#rd, title=今天惊蛰！在艺术中感受春气萌动！, content=所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。, appid=]
+2024/03/05 17:53:54.403 [1;34m[I][0m  匹配到规则：(https?:\/\/[^\s<>]+|[^一-龥0-9a-zA-Z=;&?-_.<>:'",{}][0-9a-zA-Z()]{11}[^一-龥0-9a-zA-Z=;&?-_.<>:'",{}\s])
+2024/03/05 17:53:54.408 [1;34m[I][0m  继续去处理：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=MzA3ODIwNDIwNw==&mid=2650512542&idx=1&sn=5f0510cabe35c4726046dffe5f6425e7&chksm=86fc436f00494e4e31562508039285030cb0d3b5b73b38f805a55909ddedf58482470a3c6fe1&scene=0&xtrack=1#rd, title=今天惊蛰！在艺术中感受春气萌动！, content=所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。, appid=]
+2024/03/05 17:53:54.408 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:53:54.412 [1;34m[I][0m  继续去处理：[CQ:share, url=http://mp.weixin.qq.com/s?__biz=MzA3ODIwNDIwNw==&mid=2650512542&idx=1&sn=5f0510cabe35c4726046dffe5f6425e7&chksm=86fc436f00494e4e31562508039285030cb0d3b5b73b38f805a55909ddedf58482470a3c6fe1&scene=0&xtrack=1#rd, title=今天惊蛰！在艺术中感受春气萌动！, content=所谓惊蛰时节“春雷惊百虫”，春雷乍动，万物生机盎然，树叶冒头，鸟儿歌唱，春天终于来到我们面前。, appid=]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:55:07.912 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"from_group_name":"魅力中赵志愿服务队","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\895b94d52989646807acd6286bbcc23b.jpg]","msg_source":null,"clientid":0,"robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_wxid":"sslx1228","from_name":"海燕","robot_type":0,"msg_id":"5808287015339251484","type":3}}
+2024/03/05 17:55:07.923 [1;34m[I][0m  接收到消息 wx/sslx1228@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/895b94d52989646807acd6286bbcc23b.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\895b94d52989646807acd6286bbcc23b.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:55:07.959 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:55:09.321 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:55:09.321 [1;34m[I][0m  0
+2024/03/05 17:55:09.331 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 17:56:09.414 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"from_name":"妙之味","msg_source":null,"msg_id":"8758233640698576605","robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_wxid":"wxid_opa9xj0jw9fn22","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\e126447ef77a9ec3191099a92240e696.jpg]","clientid":0,"robot_type":0,"type":3,"from_group_name":"魅力中赵志愿服务队"}}
+2024/03/05 17:56:09.419 [1;34m[I][0m  接收到消息 wx/wxid_opa9xj0jw9fn22@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/e126447ef77a9ec3191099a92240e696.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\e126447ef77a9ec3191099a92240e696.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 17:56:09.426 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 17:56:13.538 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 17:56:13.538 [1;34m[I][0m  0
+2024/03/05 17:56:13.540 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+2024/03/05 17:56:31.761 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"from_group_name":"魅力中赵志愿服务队","from_name":"赵百梁","msg":"[强][抱拳]","msg_source":null,"clientid":0,"robot_type":0,"msg_id":"2878989482621206697","from_group":"39249416841@chatroom","type":1,"from_wxid":"wxid_9i7qklt7ybqp11","robot_wxid":"wxid_tbtmkldytqz322"}}
+2024/03/05 17:56:31.766 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[强][抱拳]
+2024/03/05 17:56:31.771 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 17:56:31.779 [1;34m[I][0m  继续去处理：[强][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 18:02:43.033 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":3,"from_group_name":"魅力中赵志愿服务队","from_name":"Nuyoah","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\c1f5f502cd45ccf8126a061ba11e7e98.jpg]","robot_type":0,"from_group":"39249416841@chatroom","from_wxid":"gz455688920","msg_source":null,"clientid":0,"msg_id":"3295337772629725572"}}
+2024/03/05 18:02:43.110 [1;34m[I][0m  接收到消息 wx/gz455688920@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/c1f5f502cd45ccf8126a061ba11e7e98.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\c1f5f502cd45ccf8126a061ba11e7e98.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 18:02:43.168 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 18:02:44.333 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 18:02:44.334 [1;34m[I][0m  0
+2024/03/05 18:02:44.351 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+2024/03/05 18:05:49.900 [1;44m[D][0m  西瓜接收消息： {"sdkVer":6,"Event":"EventGroupChat","content":{"robot_wxid":"wxid_tbtmkldytqz322","type":3,"clientid":0,"robot_type":0,"msg_id":"6995632705851158383","from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_7gz4n02zqd6t21","from_name":"随缘","msg":"[pic=D:\\Suixsy\\XiGua\\Data\\wxid_tbtmkldytqz322\\bfbd064542b2679c9195ebaa9170bc28.jpg]","msg_source":null}}
+2024/03/05 18:05:49.906 [1;34m[I][0m  接收到消息 wx/wxid_7gz4n02zqd6t21@39249416841：[CQ:image,file=http://42.193.97.98:9999/wxid_tbtmkldytqz322/bfbd064542b2679c9195ebaa9170bc28.jpg,xg_path=D:\Suixsy\XiGua\Data\wxid_tbtmkldytqz322\bfbd064542b2679c9195ebaa9170bc28.jpg,xg_bot=wxid_tbtmkldytqz322]
+2024/03/05 18:05:49.908 [1;34m[I][0m  匹配到规则：\[CQ:image,file=http://42.193.97.98:9999/\w+/[0-9A-Za-z]+.jpg,xg_path=D:\\Suixsy\\XiGua\\Data\\\w+\\[0-9A-Za-z]+.jpg,xg_bot=\w+\]
+2024/03/05 18:05:53.962 [1;34m[I][0m  {"status":1,"data":{"RawData":"","new_version":false,"new_descr":"\u8349\u6599\u4e8c\u7ef4\u7801\u5df2\u7ecf\u66f4\u65b0,<a href='http:\/\/static.clewm.net\/cli\/addons\/caoliao2.5.1.crx' target='_blank' style='color:blue'>\u8bf7\u5347\u7ea7\uff01<\/a>"}}
+2024/03/05 18:05:53.962 [1;34m[I][0m  0
+2024/03/05 18:05:53.962 [1;31m[E][0m  ReferenceError: wordkey is not defined at Sy计划任务.js:175:4(302)
+2024/03/05 18:06:15.004 [1;44m[D][0m  西瓜接收消息： {"content":{"type":1,"from_name":"赵百梁","msg_source":null,"robot_type":0,"msg_id":"1595710129613450647","robot_wxid":"wxid_tbtmkldytqz322","from_group":"39249416841@chatroom","from_group_name":"魅力中赵志愿服务队","from_wxid":"wxid_9i7qklt7ybqp11","msg":"[强][抱拳]","clientid":0},"sdkVer":6,"Event":"EventGroupChat"}
+2024/03/05 18:06:15.009 [1;34m[I][0m  接收到消息 wx/wxid_9i7qklt7ybqp11@39249416841：[强][抱拳]
+2024/03/05 18:06:15.020 [1;34m[I][0m  匹配到规则：^([\s\S]+)$
+2024/03/05 18:06:15.029 [1;34m[I][0m  继续去处理：[强][抱拳]
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
+[CLIENT] 心跳校验 { op: 1, d: 2 }
